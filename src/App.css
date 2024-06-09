@@ -1,0 +1,16 @@
+body {
+  background-image: url(./assets/bg-Image.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: max-content;
+}
+
+.footerContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(33, 37, 41);
+  height: 10rem;
+  margin-top: 2rem;
+}
